@@ -1,0 +1,22 @@
+{
+  "name": "musk23-cli-number-guessing",
+  "version": "2.0.5",
+  "description": "This is a CLI based number guessing game.",
+  "main": "index.js",
+  "type": "module",
+  "module": "index.js",
+  "bin": "index.js",
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.11.30"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  }
+}
